@@ -11,12 +11,5 @@
 [![](https://img.shields.io/twitter/follow/yuuhanasaki39?color=%234Bf&label=Twitter&style=popout-square&logo=twitter&logoColor=white)](https://twitter.com/yuuhanasaki39) 
 [![](https://img.shields.io/github/followers/yuto5176?color=%2384F&label=GitHub&logo=github&style=popout-square)](https://github.com/yuto5176)
 
-### Activities
-
-- 2020/12/13-19 : FunLocks2020(ハッカソン)<br/>
-- 2021/9/26 : 技育展2021(チーム開発)<br/>
-- 2021/12/18 : enPiT BizSysD 北海道・東北合同発表会
-
-
 ### Contributions
 ![](./profile-3d-contrib/profile-night-view.svg)
