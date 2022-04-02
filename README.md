@@ -1,4 +1,4 @@
-# Hi! This is Hanasaki's profile.
+# Hi! This is HanasakiPuri's profile.
 
 ### About
 ガジェット好きな情報系大学生。<br/>
